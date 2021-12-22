@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/vokal
+vokal.so
+vokal.dylib
+vokal.dll
+vokal.a
+vokal.lib
+vokal-test-*
+*.exe
+*.o
+*.obj
+*.lst

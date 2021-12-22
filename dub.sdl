@@ -1,0 +1,7 @@
+name "vokal"
+description "Experimental singing synthesizer"
+authors "Luna"
+copyright "Copyright © 2021, Luna"
+license "BSD 2-clause"
+dependency "audio-formats" version="~>1.4.2"
+dependency "asdf" version="~>0.7.13"
